@@ -62,6 +62,7 @@ A modern legal platform built with:
 
 - 📧 Email: akassahun2023@gmail.com
 - 🌐 Portfolio: https://asmamawkassahun.vercel.app
+- 💬 Telegram: @Thank_y_o_u
 ---
 
 _“Code is the closest thing we have to magic.”_
