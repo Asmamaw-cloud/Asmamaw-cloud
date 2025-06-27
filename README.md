@@ -17,10 +17,11 @@ A modern legal platform built with:
 ---
 
 ## 🧠 Areas of Interest
-- Neural Networks & Neuromorphic Computing 🧠
-- Operating Systems 🖥️
-- Algorithm Design & Analysis 📊
-- System-Level Programming 🧵
+- Front-End Development & UI/UX Design 🎨
+- Back-End Development & API Architecture ⚙️
+- Full-Stack Web Development 🌐
+- Mobile Application Development 📱
+- Application & Network Security 🔒
 
 ---
 
