@@ -58,9 +58,8 @@ A modern legal platform built with:
 
 ## 📫 Let's Connect
 
-- 📧 Email: kassahunasmamaw@gmail.com
-- 🌐 Portfolio: Coming soon...
-
+- 📧 Email: akassahun2023@gmail.com
+- 🌐 Portfolio: asmamawkassahun.vercel.app
 ---
 
 _“Code is the closest thing we have to magic.”_
