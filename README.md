@@ -54,7 +54,7 @@ A modern legal platform built with:
 
 ## 📈 GitHub Stats
 
-##![Asmamaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asmamaw-cloud&show_icons=true&theme=tokyonight)
+## ![Asmamaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asmamaw-cloud&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmamaw-cloud&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
