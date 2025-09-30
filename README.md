@@ -20,8 +20,6 @@ A modern legal platform built with:
 - Front-End Development & UI/UX Design 🎨
 - Back-End Development & API Architecture ⚙️
 - Full-Stack Web Development 🌐
-- Mobile Application Development 📱
-- Application & Network Security 🔒
 
 ---
 
