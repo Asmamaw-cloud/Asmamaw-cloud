@@ -37,7 +37,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmamaw-cloud&show_icons=true&theme=tokyonight&cache_seconds=1200)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmamaw-cloud&show_icons=true&theme=tokyonight&cache_seconds=600)
 
 ---
 
