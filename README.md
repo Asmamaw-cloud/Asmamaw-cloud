@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Asmamaw Kassahun
 
-🎓 I'm a Computer Science graduate with a strong foundation in full-stack web technologies. I’m passionate about building impactful solutions and continuously learning new technologies.
-
+Full-stack developer with a Computer Science background, passionate about building scalable web applications and continuously learning modern technologies.
 ---
 
 
