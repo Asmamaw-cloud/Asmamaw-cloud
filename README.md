@@ -5,7 +5,7 @@ Full-stack developer with a Computer Science background, passionate about buildi
 
 
 ## Areas of Interest
-- Front-End Development & UI/UX Design
+- Front-End Development
 - Back-End Development & API Architecture
 - Full-Stack Web Development
 
